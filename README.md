@@ -60,7 +60,7 @@ The FSM transitions correctly between all states on every positive clock edge an
 A Mealy FSM where the output depends on both the current state and the input signal.
 
 ### Verilog Design
-
+ 
 ![Mealy FSM](Screenshots/mealy_fsm.png)
 
 ### Testbench
