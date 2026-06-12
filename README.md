@@ -112,11 +112,11 @@ The Traffic Light Controller is a practical FSM application used to control traf
 
 ### Testbench
 
-![Traffic Light Controller Testbench](Screenshots/traffic_light_tb.jpg)
+![Traffic Light Controller Testbench](Screenshots/trafficlight_tb.jpg)
 
 ### Output Waveform
 
-![Traffic Light Controller Output](Screenshots/traffic light_output.jpg)
+![Traffic Light Controller Output](Screenshots/traffic_light_output.jpg)
 
 ### Observation
 
