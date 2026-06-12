@@ -119,7 +119,3 @@ All modules were tested using dedicated testbenches and validated through simula
 # Conclusion
 
 This task provided practical experience in RTL design and verification using Verilog HDL. Through the implementation of Moore FSM, Mealy FSM, Traffic Light Controller, and Sequence Detector circuits, important concepts such as state transitions, output logic, and sequential circuit design were explored. The successful simulation and verification of all designs strengthened understanding of FSM-based digital systems and enhanced skills relevant to VLSI and FPGA development.
----
-#Author
-T Gayathri
-VLSI Intern
